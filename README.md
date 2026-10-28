@@ -11,5 +11,5 @@
 1. Open index.html.
 2. Enter the server's IP address.
 
-> All devices must be connected to the same local network.
+> All devices must be connected to the same local network.  
 > Server.exe must remain running for the chat to work.
